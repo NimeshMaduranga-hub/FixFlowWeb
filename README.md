@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FixFlow
 
 Issue tracking web app. React 19 + TypeScript + Vite + Tailwind CSS 4.
@@ -39,3 +40,7 @@ Base URL from `VITE_API_BASE_URL`.
 ## Deploy
 
 `vercel.json` rewrites all routes to `index.html` for SPA routing.
+=======
+# FixFlowWeb
+FixFlow – Electronic Device Repair Management System Frontend 4.
+>>>>>>> origin/main
